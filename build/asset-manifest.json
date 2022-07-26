@@ -1,0 +1,12 @@
+{
+  "bundle.css": "bundle.c97d9.css",
+  "bundle.js": "bundle.cf84f.esm.js",
+  "bundle.js.map": "bundle.cf84f.esm.js.map",
+  "polyfills.js": "polyfills.2b14e.esm.js",
+  "polyfills.js.map": "polyfills.2b14e.esm.js.map",
+  "manifest.json": "manifest.json",
+  "sw-esm.js": "sw-esm.js",
+  "sw-esm.js.map": "sw-esm.js.map",
+  "sw.js": "sw.js",
+  "sw.js.map": "sw.js.map"
+}
