@@ -22,7 +22,7 @@ const reducer = (todos, action) => {
       });
 
     default:
-      console.log("Wrong action!!!");
+      console.log("Wrong action!");
   }
 };
 
